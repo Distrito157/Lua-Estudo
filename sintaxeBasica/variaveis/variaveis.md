@@ -1,4 +1,4 @@
-1. Declaração de Variáveis:
+<a name="variaveis"></a>1. Declaração de Variáveis:
     + Em Lua, as variáveis são declaradas usando a palavra-chave "local" seguida pelo nome da variável.
     + Exemplo: `local nome`
     + Variável numérica:

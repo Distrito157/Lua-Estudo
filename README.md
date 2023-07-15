@@ -3,7 +3,7 @@ Lua é uma linguagem de programação poderosa e versátil, usada em uma ampla g
 
 ## Índice:
 1. Sintaxe básica:
-    + [Variáveis e tipos de dados](#sintaxeBasica/variaveis/variaveis.md)
+    + [Variáveis e tipos de dados](#variaveis)
     + Operadores aritméticos e lógicos
     + Estruturas condicionais (if-then-else)
     + Estruturas de repetição (loops)
